@@ -1,0 +1,10 @@
+c:\Users\PSI\Desktop\BikeStoresData\ProjectBikeStores\bin\Debug\ProjectBikeStores.dacpac
+c:\Users\PSI\Desktop\BikeStoresData\ProjectBikeStores\obj\Debug\ProjectBikeStores.sqlproj.AssemblyReference.cache
+c:\Users\PSI\Desktop\BikeStoresData\ProjectBikeStores\obj\Debug\Model.xml
+c:\Users\PSI\Desktop\BikeStoresData\ProjectBikeStores\obj\Debug\refactor.xml
+c:\Users\PSI\Desktop\BikeStoresData\ProjectBikeStores\obj\Debug\postdeploy.sql
+c:\Users\PSI\Desktop\BikeStoresData\ProjectBikeStores\obj\Debug\predeploy.sql
+c:\Users\PSI\Desktop\BikeStoresData\ProjectBikeStores\obj\Debug\ProjectBikeStores.dll
+c:\Users\PSI\Desktop\BikeStoresData\ProjectBikeStores\obj\Debug\ProjectBikeStores.pdb
+c:\Users\PSI\Desktop\BikeStoresData\ProjectBikeStores\bin\Debug\ProjectBikeStores.dll
+c:\Users\PSI\Desktop\BikeStoresData\ProjectBikeStores\bin\Debug\ProjectBikeStores.pdb

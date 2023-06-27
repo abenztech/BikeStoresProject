@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "apXbCKU72WnWYuF8XylX4PbHDoamaKAFWCw2w06r/1o2Lu0escbzTEzye8y5KSfoEw2b7ouA+C+8pR/nkkJ49Q==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\PSI\\Desktop\\BikeStoresData\\ProjectBikeStores\\ProjectBikeStores.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PSI\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\PSI\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
